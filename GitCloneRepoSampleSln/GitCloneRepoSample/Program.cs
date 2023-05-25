@@ -6,7 +6,7 @@ namespace GitCloneRepoSample
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("This project was created as a sample.");
         }
     }
 }
